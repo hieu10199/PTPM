@@ -1,0 +1,6 @@
+E:\PhatTrienPhanMem\DinhHoangHieu_2001170054_BTVNTuan3\HopDen\bin\Debug\HopDen.dll
+E:\PhatTrienPhanMem\DinhHoangHieu_2001170054_BTVNTuan3\HopDen\bin\Debug\HopDen.pdb
+E:\PhatTrienPhanMem\DinhHoangHieu_2001170054_BTVNTuan3\HopDen\obj\Debug\HopDen.dll
+E:\PhatTrienPhanMem\DinhHoangHieu_2001170054_BTVNTuan3\HopDen\obj\Debug\HopDen.pdb
+E:\PhatTrienPhanMem\DinhHoangHieu_2001170054_BTVNTuan3\HopDen\obj\Debug\HopDen.SeeView.resources
+E:\PhatTrienPhanMem\DinhHoangHieu_2001170054_BTVNTuan3\HopDen\obj\Debug\HopDen.csproj.GenerateResource.Cache

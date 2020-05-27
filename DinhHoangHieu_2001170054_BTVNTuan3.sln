@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinhHoangHieu_2001170054_BTVNTuan3", "DinhHoangHieu_2001170054_BTVNTuan3\DinhHoangHieu_2001170054_BTVNTuan3.csproj", "{D3AD69D5-FCEF-4663-A940-2ED966CE9440}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HopDen", "HopDen\HopDen.csproj", "{3DA7C40B-5527-4DE7-9D06-A2AC5B5D5D45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3AD69D5-FCEF-4663-A940-2ED966CE9440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AD69D5-FCEF-4663-A940-2ED966CE9440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AD69D5-FCEF-4663-A940-2ED966CE9440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AD69D5-FCEF-4663-A940-2ED966CE9440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DA7C40B-5527-4DE7-9D06-A2AC5B5D5D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA7C40B-5527-4DE7-9D06-A2AC5B5D5D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA7C40B-5527-4DE7-9D06-A2AC5B5D5D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA7C40B-5527-4DE7-9D06-A2AC5B5D5D45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
